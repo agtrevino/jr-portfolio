@@ -1,0 +1,15 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+@font-face {
+    font-family: 'Raleway';
+    src: url("../src/assets/fonts/raleway/Raleway-Regular.ttf");
+  }
+@font-face {
+    font-family: 'RalewaySemi';
+    src: url("../src/assets/fonts/raleway/Raleway-SemiBold.ttf");
+  }  
+
+* {
+    font-family: 'Raleway';
+    letter-spacing: 2.3px;
+}

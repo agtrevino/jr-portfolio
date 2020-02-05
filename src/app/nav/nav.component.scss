@@ -1,0 +1,22 @@
+.main-nav {
+    background: transparent;
+    border-bottom: 1px solid #6F2232;
+}
+
+.navbar-brand {
+    font-family: 'RalewaySemi';
+}
+
+.nav-item {
+    cursor: pointer;
+}
+
+a {
+    color: rgba(111, 34, 50, 1);
+    transition: 300ms;
+}
+
+a:hover {
+    color: #fff;
+    transition: 300ms;
+}
